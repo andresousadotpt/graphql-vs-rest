@@ -2,13 +2,24 @@
   "name": "graphql",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "lint:fix": "eslint --fix src/*.js",
+    "dev": "nodemon src/index.js"
   },
   "author": "André Sousa",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.15.0"
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-import": "^2.26.0",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.32",
+    "express": "^4.18.1"
   }
 }
