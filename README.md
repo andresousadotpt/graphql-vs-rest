@@ -96,14 +96,9 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [Next.js](https://nextjs.org/)
-- [React.js](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Angular](https://angular.io/)
-- [Svelte](https://svelte.dev/)
-- [Laravel](https://laravel.com)
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
+- [Node.js](https://nodejs.org/)
+  - [Express](https://expressjs.com/)
+- [GraphQL](https://graphql.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -214,5 +209,5 @@ Project Link: [https://github.com/andresousadotpt/graphql-vs-rest](https://githu
 [license-shield]: https://img.shields.io/github/license/andresousadotpt/graphql-vs-rest.svg?style=for-the-badge
 [license-url]: https://github.com/andresousadotpt/graphql-vs-rest/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/andresousadotpt/
 [product-screenshot]: images/screenshot.png
