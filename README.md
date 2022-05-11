@@ -33,7 +33,7 @@
   <h3 align="center">GraphQL vs Rest API</h3>
 
   <p align="center">
-    I will learn about GraphQL & Rest API, to see its diferences.
+    I will learn about GraphQL & Rest API, to see its diferences using Node.js
     <br />
     <a href="https://github.com/andresousadotpt/graphql-vs-rest"><strong>Explore the docs »</strong></a>
     <br />
