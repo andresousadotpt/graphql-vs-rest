@@ -82,9 +82,9 @@ There are many great README templates available on GitHub; however, I didn't fin
 
 Here's why:
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
+-   Your time should be focused on creating something amazing. A project that solves a problem and helps others
+-   You shouldn't be doing the same tasks over and over like creating a README from scratch
+-   You should implement DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -96,9 +96,9 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [Node.js](https://nodejs.org/)
-  - [Express](https://expressjs.com/)
-- [GraphQL](https://graphql.org/)
+-   [Node.js](https://nodejs.org/)
+    -   [Express](https://expressjs.com/)
+-   [GraphQL](https://graphql.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -113,11 +113,11 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-- npm
+-   npm
 
-  ```sh
-  npm install npm@latest -g
-  ```
+    ```sh
+    npm install npm@latest -g
+    ```
 
 ### Installation
 
@@ -126,15 +126,15 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
 
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+    ```sh
+    git clone https://github.com/your_username_/Project-Name.git
+    ```
 
 3. Install NPM packages
 
-   ```sh
-   npm install
-   ```
+    ```sh
+    npm install
+    ```
 
 4. Change .env file
 
@@ -154,13 +154,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+-   [x] Add Changelog
+-   [x] Add back to top links
+-   [ ] Add Additional Templates w/ Examples
+-   [ ] Add "components" document to easily copy & paste sections of the readme
+-   [ ] Multi-language Support
+    -   [ ] Chinese
+    -   [ ] Spanish
 
 See the [open issues](https://github.com/andresousadotpt/graphql-vs-rest/issues) for a full list of proposed features (and known issues).
 
